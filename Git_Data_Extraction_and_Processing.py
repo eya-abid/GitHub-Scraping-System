@@ -33,7 +33,7 @@ import os
 # In[3]:
 
 
-# function that converts all object columns to strings, in order to store them efficiently into the database
+# function that converts all the object columns to strings, in order to store them efficiently into the database
 def objects_to_strings(table):
     measurer = np.vectorize(len)
     df_object = table.select_dtypes(include=[object])
