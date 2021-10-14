@@ -9,7 +9,7 @@ The file, named **Git_Data_Extraction_and_Processing** is used for extracting th
 
 Github API is rich and it even provides a Stats API which gets some important statistics without having to make multiple calls to the entities APIs.
 
-All data get stored in a MySQL database in order to make it possible to generate visualizations and reports on some BI tool later. There has also been included the option of storing them in CSV files for better retrieval afterwards.
+All the data get stored in a MySQL database in order to make it possible to generate visualizations and reports on some BI tool later. There has also been included the option of storing them in CSV files for better retrieval afterwards.
 
 The `data` folder contains generated CSV files for the Apache Spark repository and those data are later used for analysis.
 
