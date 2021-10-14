@@ -16,5 +16,8 @@
 14,branch-2.1,False,spark,apache,4d2d3d47e00e78893b1ecd5a9a9070adc5243ac9,https://api.github.com/repos/apache/spark/commits/4d2d3d47e00e78893b1ecd5a9a9070adc5243ac9
 15,branch-2.2,False,spark,apache,7c7d7f6a878b02ece881266ee538f3e1443aa8c1,https://api.github.com/repos/apache/spark/commits/7c7d7f6a878b02ece881266ee538f3e1443aa8c1
 16,branch-2.3,False,spark,apache,75cc3b2da9ee0b51ecf0f13169f2b634e36a60c4,https://api.github.com/repos/apache/spark/commits/75cc3b2da9ee0b51ecf0f13169f2b634e36a60c4
-17,branch-2.4,False,spark,apache,db32408f2a9295e4053dd3a1ebf8ae013557ff96,https://api.github.com/repos/apache/spark/commits/db32408f2a9295e4053dd3a1ebf8ae013557ff96
-18,master,True,spark,apache,ba3f6330dd2b6054988f1f6f0ffe014fc4969088,https://api.github.com/repos/apache/spark/commits/ba3f6330dd2b6054988f1f6f0ffe014fc4969088
+17,branch-2.4,False,spark,apache,4be566062defa249435c4d72eb106fe7b933e023,https://api.github.com/repos/apache/spark/commits/4be566062defa249435c4d72eb106fe7b933e023
+18,branch-3.0,False,spark,apache,86bf5d345d7809e836bad2f6946253889eae7656,https://api.github.com/repos/apache/spark/commits/86bf5d345d7809e836bad2f6946253889eae7656
+19,branch-3.1,False,spark,apache,fe2f646a7ee2d9c456d9aa1a6916cc478b73dd12,https://api.github.com/repos/apache/spark/commits/fe2f646a7ee2d9c456d9aa1a6916cc478b73dd12
+20,branch-3.2,False,spark,apache,f886d51b84c4510f988cb83277c07b8b9e39d25c,https://api.github.com/repos/apache/spark/commits/f886d51b84c4510f988cb83277c07b8b9e39d25c
+21,master,True,spark,apache,3354a21eff0316311043a2d0b4f5d0e12774adb1,https://api.github.com/repos/apache/spark/commits/3354a21eff0316311043a2d0b4f5d0e12774adb1
